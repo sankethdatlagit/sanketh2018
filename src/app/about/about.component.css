@@ -1,0 +1,63 @@
+#About_me ,#SPS{
+    background-color : #f4a742;
+    color : rgb(3, 0, 0);   
+    font-style: normal;
+    font-weight: normal;     
+}
+
+#About_me
+{
+    text-align: center;
+ 
+}
+
+#SPS
+{
+    position: relative;
+    top: 13px;
+
+}
+
+#Other
+{
+    height : 10;
+    overflow: auto;
+}
+
+img 
+{
+    float: left;
+}
+
+table,th,td{
+    border: 1px solid black;
+    margin: 2;
+    padding : 2;
+    border-style: solid;
+    border-color: darkgoldenrod;
+
+    }
+
+ul
+{
+    list-style-type: none;
+    list-style-position: inside;
+    
+}
+
+p.clear-me 
+{
+    clear: both
+}
+
+h4
+{
+    text-decoration: orange underline overline wavy;
+}
+
+a
+{
+    cursor: pointer;
+}
+    
+    
